@@ -1,0 +1,8 @@
+com.upchiapas.todo_app-pngs-0 /home/edgar/Descargas/Api-moviles/todo_app_android/app/build/generated/res/pngs/debug
+com.upchiapas.todo_app-updated_navigation_xml-1 /home/edgar/Descargas/Api-moviles/todo_app_android/app/build/generated/updated_navigation_xml/debug
+com.upchiapas.todo_app-packageDebugResources-2 /home/edgar/Descargas/Api-moviles/todo_app_android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.upchiapas.todo_app-packageDebugResources-3 /home/edgar/Descargas/Api-moviles/todo_app_android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.upchiapas.todo_app-debug-4 /home/edgar/Descargas/Api-moviles/todo_app_android/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.upchiapas.todo_app-debug-5 /home/edgar/Descargas/Api-moviles/todo_app_android/app/src/debug/res
+com.upchiapas.todo_app-main-6 /home/edgar/Descargas/Api-moviles/todo_app_android/app/src/main/res
+gradleHome-0 /home/edgar/.gradle
