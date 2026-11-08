@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.upchiapas.todo_app-mergeDebugResources-34:/values-v30/values-v30.xml",
+            "outputFile": "com.upchiapas.todo_app-mergeDebugResources-39:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/home/edgar/.gradle/caches/9.6.0/transforms/b83bb947da17585d384c374f148275cf/transformed/material3/res/values-v30/values-v30.xml",
+                    "source": "/home/edgar/.gradle/caches/9.6.0/transforms/9df4e231c7599f4dfc71c67203c1999f/transformed/material3/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
