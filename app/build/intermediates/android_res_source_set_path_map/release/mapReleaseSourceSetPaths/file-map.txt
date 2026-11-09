@@ -1,0 +1,8 @@
+com.upchiapas.todo_app-pngs-0 /home/edgar/Descargas/todo-app-android/app/build/generated/res/pngs/release
+com.upchiapas.todo_app-updated_navigation_xml-1 /home/edgar/Descargas/todo-app-android/app/build/generated/updated_navigation_xml/release
+com.upchiapas.todo_app-packageReleaseResources-2 /home/edgar/Descargas/todo-app-android/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.upchiapas.todo_app-packageReleaseResources-3 /home/edgar/Descargas/todo-app-android/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.upchiapas.todo_app-release-4 /home/edgar/Descargas/todo-app-android/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.upchiapas.todo_app-main-5 /home/edgar/Descargas/todo-app-android/app/src/main/res
+com.upchiapas.todo_app-release-6 /home/edgar/Descargas/todo-app-android/app/src/release/res
+gradleHome-0 /home/edgar/.gradle

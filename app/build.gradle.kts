@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.upchiapas.todo_app"
-    compileSdk = 35
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.upchiapas.todo_app"

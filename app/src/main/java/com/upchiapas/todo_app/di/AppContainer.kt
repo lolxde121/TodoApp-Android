@@ -36,7 +36,7 @@ class DefaultAppContainer(private val context: Context) : AppContainer {
      * URL base de la API FastAPI.
      * 10.0.2.2 es el alias del host local para el emulador Android de Google.
      */
-    private val baseUrl = "http://10.0.2.2:8000/"
+    private val baseUrl = "http://18.204.112.209/"
 
     override val sessionManager: SessionManager by lazy {
         SessionManagerImpl(context.applicationContext)
