@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.upchiapas.todo_app"
-    compileSdk = 37
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.upchiapas.todo_app"
@@ -55,6 +55,9 @@ dependencies {
     implementation(libs.androidx.lifecycle.viewmodel.compose)
     implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.compose.material.icons.extended)
+
+    // Security: Cifrado en reposo para sesiones con AES-256 GCM
+    implementation(libs.androidx.security.crypto)
 
     // Networking: Retrofit & OkHttp
     implementation(libs.retrofit)
